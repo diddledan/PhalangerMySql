@@ -29,3 +29,8 @@
 *.vspscc
 .builds
 *.dotCover
+obj
+bin
+packages/*
+
+Tools/nuget.exe
